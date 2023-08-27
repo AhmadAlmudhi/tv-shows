@@ -1,0 +1,21 @@
+{
+    "arabic_langeuage": "Arabic Langeuage",
+    "preferences": "Preferences",
+    "dark_mode": "Dark Mode",
+    "favorites": "Favorites",
+    "shows": "Shows",
+    "settings": "Settings",
+    "error_message": "Something went wrong!",
+    "try_again": "Try Again",
+    "genres": "Genres",
+    "rating": "Rating",
+    "network": "Network",
+    "status": "Status",
+    "description": "Description",
+    "watched?": "Have you watched the show?",
+    "never": "Never Watched",
+    "still": "Still Watching",
+    "finished": "Finished Watching",
+    "offline": "You are offline !",
+    "not_found": "No results found"
+}
